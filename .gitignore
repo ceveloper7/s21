@@ -1,0 +1,6 @@
+.settings/
+**/build/
+**/lib/
+**/target/
+**/.settings/
+*.class

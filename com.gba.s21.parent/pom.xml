@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.gba.s21</groupId>
+  <artifactId>com.gba.s21.parent</artifactId>
+  <version>${revision}</version>
+  <packaging>pom</packaging>
+  <name>com.gba.s21.parent</name>
+  
+  <properties>
+	<revision>0.0.1-SNAPSHOT</revision>
+	<tycho.version>4.0.8</tycho.version>
+	<tycho.extras.version>${tycho.version}</tycho.extras.version>
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<netbeans.lib.version>RELEASE124</netbeans.lib.version>
+	<maven-clean-plugin.version>3.4.0</maven-clean-plugin.version>
+	<target.version>21</target.version>
+    <maven.compiler.source>21</maven.compiler.source>
+	<maven.compiler.target>21</maven.compiler.target>
+  </properties>
+</project>

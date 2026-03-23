@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ui
+Bundle-SymbolicName: com.gba.s21.ui
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: gba
+Require-Bundle: org.eclipse.swt,
+ org.eclipse.jface
+Automatic-Module-Name: com.gba.s21.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-21
