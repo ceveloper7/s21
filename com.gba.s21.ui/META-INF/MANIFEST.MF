@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: ui
-Bundle-SymbolicName: com.gba.s21.ui
+Bundle-SymbolicName: com.gba.s21.ui;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: gba
 Require-Bundle: org.eclipse.swt,

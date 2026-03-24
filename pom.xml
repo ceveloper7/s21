@@ -13,5 +13,6 @@
   <modules>
   	<module>com.gba.s21.product</module>
   	<module>com.gba.s21.ui</module>
+  	<module>com.gba.s21.ui.feature</module>
   </modules>
 </project>
