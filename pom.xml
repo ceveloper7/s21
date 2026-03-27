@@ -15,5 +15,6 @@
   	<module>com.gba.s21.ui.app.standalone</module>
   	<module>com.gba.s21.ui.app.standalone.feature</module>
   	<module>com.gba.s21.server.product</module>
+  	<module>com.gba.s21.ui.app.product</module>
   </modules>
 </project>
