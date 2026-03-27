@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: ui
-Bundle-SymbolicName: com.gba.s21.ui;singleton:=true
+Bundle-Name: Standalone
+Bundle-SymbolicName: com.gba.s21.ui.app.standalone;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: gba
 Require-Bundle: org.eclipse.swt,
  org.eclipse.jface
-Automatic-Module-Name: com.gba.s21.ui
+Automatic-Module-Name: com.gba.s21.ui.app.standalone
 Bundle-RequiredExecutionEnvironment: JavaSE-21

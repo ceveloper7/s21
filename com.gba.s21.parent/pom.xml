@@ -8,7 +8,7 @@
   <name>com.gba.s21.parent</name>
   
   <properties>
-	<revision>0.0.1-SNAPSHOT</revision>
+	<revision>1.0.0-SNAPSHOT</revision>
 	<tycho.version>4.0.8</tycho.version>
 	<tycho.extras.version>${tycho.version}</tycho.extras.version>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

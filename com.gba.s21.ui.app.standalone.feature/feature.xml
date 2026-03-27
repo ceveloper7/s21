@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.gba.s21.ui.feature"
+      id="com.gba.s21..ui.app.standalone.feature"
       label="Feature"
       version="1.0.0.qualifier"
-      provider-name="GBA">
+      provider-name="gba">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -18,7 +18,7 @@
    </license>
 
    <plugin
-         id="com.gba.s21.ui"
+         id="com.gba.s21.ui.app.standalone"
          version="0.0.0"/>
 
 </feature>

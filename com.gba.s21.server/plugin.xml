@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+	<extension
+         id="s21.application"
+         point="org.eclipse.core.runtime.applications">
+         <application cardinality="singleton-global" thread="main" visible="true">
+         <run class="com.gba.s21.server.S21Application" />
+      </application>
+   </extension>
+ <extension
+       id="product"
+       point="org.eclipse.core.runtime.products">
+    <product
+          application="s21.application"
+          name="s21-server">
+       <property
+             name="appName"
+             value="s21-server">
+       </property>
+    </product>
+ </extension>
+</plugin>
